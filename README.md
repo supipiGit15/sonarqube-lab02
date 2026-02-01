@@ -8,6 +8,7 @@ This repository contains a **simple Java Maven project** with **intentional code
 It is used to demonstrate how **static code analysis** and **quality gates** work in a **CI/CD pipeline** using **SonarCloud** and **GitHub Actions**.
 
 The goal of this lab is to help students understand:
+
 - Why code quality matters
 - How CI/CD pipelines react to code changes
 - How SonarCloud identifies bugs, vulnerabilities, and code smells
@@ -40,10 +41,10 @@ The goal of this lab is to help students understand:
 
 ---
 
-
 ## Expected Outcome
 
 By completing this lab, students will be able to:
+
 - Integrate a GitHub repository with SonarCloud
 - Run static code analysis as part of a CI pipeline
 - Understand Quality Gates and their impact on CI/CD
@@ -56,9 +57,6 @@ By completing this lab, students will be able to:
 - This project is **intentionally imperfect**.
 - Quality issues are expected and required for the lab.
 - Do **not** aim for a green Quality Gate in the first run.
+Trigger CI pipeline
 
 ---
-
-
-
-
